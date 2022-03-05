@@ -1,0 +1,15 @@
+C:\Users\harun\Pratikler\algoritma-odev1\bin\Debug\net6.0\algoritma-odev1.exe
+C:\Users\harun\Pratikler\algoritma-odev1\bin\Debug\net6.0\algoritma-odev1.deps.json
+C:\Users\harun\Pratikler\algoritma-odev1\bin\Debug\net6.0\algoritma-odev1.runtimeconfig.json
+C:\Users\harun\Pratikler\algoritma-odev1\bin\Debug\net6.0\algoritma-odev1.dll
+C:\Users\harun\Pratikler\algoritma-odev1\bin\Debug\net6.0\ref\algoritma-odev1.dll
+C:\Users\harun\Pratikler\algoritma-odev1\bin\Debug\net6.0\algoritma-odev1.pdb
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.csproj.AssemblyReference.cache
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.AssemblyInfoInputs.cache
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.AssemblyInfo.cs
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.csproj.CoreCompileInputs.cache
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.dll
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\ref\algoritma-odev1.dll
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.pdb
+C:\Users\harun\Pratikler\algoritma-odev1\obj\Debug\net6.0\algoritma-odev1.genruntimeconfig.cache
