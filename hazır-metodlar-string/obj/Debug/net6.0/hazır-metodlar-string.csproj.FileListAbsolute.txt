@@ -1,0 +1,15 @@
+C:\Users\harun\Pratikler\hazır-metodlar-string\bin\Debug\net6.0\hazır-metodlar-string.exe
+C:\Users\harun\Pratikler\hazır-metodlar-string\bin\Debug\net6.0\hazır-metodlar-string.deps.json
+C:\Users\harun\Pratikler\hazır-metodlar-string\bin\Debug\net6.0\hazır-metodlar-string.runtimeconfig.json
+C:\Users\harun\Pratikler\hazır-metodlar-string\bin\Debug\net6.0\hazır-metodlar-string.dll
+C:\Users\harun\Pratikler\hazır-metodlar-string\bin\Debug\net6.0\ref\hazır-metodlar-string.dll
+C:\Users\harun\Pratikler\hazır-metodlar-string\bin\Debug\net6.0\hazır-metodlar-string.pdb
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.csproj.AssemblyReference.cache
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.AssemblyInfoInputs.cache
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.AssemblyInfo.cs
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.csproj.CoreCompileInputs.cache
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.dll
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\ref\hazır-metodlar-string.dll
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.pdb
+C:\Users\harun\Pratikler\hazır-metodlar-string\obj\Debug\net6.0\hazır-metodlar-string.genruntimeconfig.cache
