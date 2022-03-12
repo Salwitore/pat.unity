@@ -1,0 +1,15 @@
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\bin\Debug\net6.0\hazir-metodlar_datetime_math.exe
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\bin\Debug\net6.0\hazir-metodlar_datetime_math.deps.json
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\bin\Debug\net6.0\hazir-metodlar_datetime_math.runtimeconfig.json
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\bin\Debug\net6.0\hazir-metodlar_datetime_math.dll
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\bin\Debug\net6.0\ref\hazir-metodlar_datetime_math.dll
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\bin\Debug\net6.0\hazir-metodlar_datetime_math.pdb
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.csproj.AssemblyReference.cache
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.AssemblyInfoInputs.cache
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.AssemblyInfo.cs
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.csproj.CoreCompileInputs.cache
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.dll
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\ref\hazir-metodlar_datetime_math.dll
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.pdb
+C:\Users\harun\Pratikler\hazir-metodlar_datetime_math\obj\Debug\net6.0\hazir-metodlar_datetime_math.genruntimeconfig.cache
